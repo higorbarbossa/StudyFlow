@@ -10,6 +10,7 @@
 - Udemy: [Curso Completo de Banco de Dados Oracle SQL e PL/SQL](https://www.udemy.com/curso-completo-de-oracle/) ![progress](http://progressed.io/bar/1?title=completed "progress")
 - Udemy: [Guia do MongoDB(Google Cloud, NoSQL, Alta disponibilidade)](https://www.udemy.com/guia-do-mongodb/) ![progress](http://progressed.io/bar/1?title=completed "progress")
 - Udemy: [Aprenda Unity Programando 7 Jogos](https://www.udemy.com/curso-completo-unity-3d/) ![progress](http://progressed.io/bar/1?title=completed "progress")
+- Youtube: [Patrick Monteiro - Curso Quasar Framework](https://www.youtube.com/playlist?list=PLBjvYfV_TvwJlOctQ49KiOrxrFwJGqAdr) ![progress](http://progressed.io/bar/1?title=completed "progress")
 
 
 ### Aguardando Continuação das Aulas
