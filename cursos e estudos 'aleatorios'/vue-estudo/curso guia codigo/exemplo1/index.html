@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="https://unpkg.com/vue"></script>
+</head>
+<body>
+
+    <div id="app">
+        {{ msg }}
+        <p :title="tituloo">  bota o mouse aqui em cima </p>
+        <p v-if="condicao" > Teste com IF </p>
+        <p v-for="registro in registros" >{{ registro.titulo }}</p>
+        <hr>
+        <button v-if="!clicou" v-on:click="usuarioClicou" >salvar</button>
+        <button v-if="clicou" v-on:click="usuarioClicou" >aguarde...</button>
+        <hr>
+        <input type="text" v-model="usuario.nome"> <br>
+        <p> {{ usuario.nome }} </p>
+        <hr>
+
+    </div>
+    
+
+    <script type="text/javascript">
+
+    var app = new Vue({
+        el: "#app",
+        data: {
+            msg: "Pagina do Curso de Vue.js do GuiaCodigo",
+            tituloo: "teste com v-bind",
+            condicao: true,
+            registros: [
+                { titulo: 'registro1' },
+                { titulo: 'registro2' },
+                { titulo: 'registro3' }
+            ],
+            clicou:false,
+            usuario: {
+                nome: "Higor"
+            }
+
+        },
+
+        methods:{
+            usuarioClicou: function (){
+                this.clicou = !this.clicou;
+            }
+        }
+        
+    });
+
+    </script>
+
+</body>
+</html>
