@@ -1,0 +1,21 @@
+<script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.js"></script>
+
+<div id="app">
+    <p> Contador:  {{ contador }}</p>
+    <button v-on:click="incrementar">+1 </button>
+    <hr>
+</div>
+
+<script>
+    new Vue({
+        el: '#app',
+        data: {
+            contador: 0
+        },
+        methods: {
+            incrementar(){
+                this.contador++;
+            }
+        }
+    })
+</script>
