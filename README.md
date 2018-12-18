@@ -6,7 +6,6 @@
 - Udemy: [Laravel 5.6 Completo - O mais poderoso Framework PHP](https://www.udemy.com/laravelcompleto/) ![progress](http://progressed.io/bar/10?title=completed "progress")
 - Udemy: [Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex)](https://www.udemy.com/vue-js-completo)  ![progress](http://progressed.io/bar/18?title=completed "progress")
 - Youtube: [Patrick Monteiro - Curso Quasar Framework](https://www.youtube.com/playlist?list=PLBjvYfV_TvwJlOctQ49KiOrxrFwJGqAdr) ![progress](http://progressed.io/bar/10?title=completed "progress")
-- Udemy: [Curso Git e GitHub Ninja](https://www.udemy.com/git-e-github-ninja/)  ![progress](http://progressed.io/bar/3?title=completed "progress")
 
 
 
@@ -31,5 +30,6 @@
 
 
 ### Cursos Concluídos
-- Udemy: [Curso Completo de PHP 7](https://www.udemy.com/curso-php-7-online/)
-- Udemy: [Lógica de Programação com Javascript. Iniciando no front-end](https://www.udemy.com/logica-de-programacao-com-javascript-iniciando-no-frontend/)
+- Udemy: [Curso Completo de PHP 7](https://www.udemy.com/curso-php-7-online/)  ![progress](http://progressed.io/bar/100?title=completed "progress")
+- Udemy: [Lógica de Programação com Javascript. Iniciando no front-end](https://www.udemy.com/logica-de-programacao-com-javascript-iniciando-no-frontend/)  ![progress](http://progressed.io/bar/100?title=completed "progress")
+- Udemy: [Curso Git e GitHub Ninja](https://www.udemy.com/git-e-github-ninja/)  ![progress](http://progressed.io/bar/100?title=completed "progress")
