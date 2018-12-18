@@ -3,7 +3,7 @@
 
 
 ### Atualmente:
-- Udemy: [Laravel 5.6 Completo - O mais poderoso Framework PHP](https://www.udemy.com/laravelcompleto/) ![progress](http://progressed.io/bar/10?title=completed "progress")
+- Udemy: [Laravel 5.6 Completo - O mais poderoso Framework PHP](https://www.udemy.com/laravelcompleto/) ![progress](http://progressed.io/bar/9?title=completed "progress")
 - Udemy: [Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex)](https://www.udemy.com/vue-js-completo)  ![progress](http://progressed.io/bar/18?title=completed "progress")
 - Youtube: [Patrick Monteiro - Curso Quasar Framework](https://www.youtube.com/playlist?list=PLBjvYfV_TvwJlOctQ49KiOrxrFwJGqAdr) ![progress](http://progressed.io/bar/10?title=completed "progress")
 
