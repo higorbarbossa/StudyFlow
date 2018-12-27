@@ -9,7 +9,7 @@ Seção: 2
 Usando VueJS para Interagir com a DOM
 
 Seção: 3
-(0 / 15)
+(**15 / 15**)
 Usando Condicionais & Renderização de Listas
 
 Seção: 4
@@ -41,21 +41,41 @@ Seção: 10
 Projeto #02 - Tarefas (TODO)
 
 Seção: 11
+(0 / 15)
+Manipulando Entrada de Usuário com Formulários
+
+Seção: 12
+(0 / 15)
+Usando e Criando Diretivas
+
+Seção: 13
+(0 / 11)
+Melhorando sua App com Filtros e Mixins
+
+Seção: 14
+(0 / 1)
+Adicionando Animações e Transições
+
+Seção: 15
 (0 / 6)
 Bonus: Projeto #04 - Projeto Calculadora
 
-Seção: 12
+Seção: 16
 (0 / 5)
 Bonus: Projeto #05 - Problema Monty Hall
 
-Seção: 13
+Seção: 17
 (0 / 25)
 Bonus: Projeto #06 - Base de Conhecimento • Backend
 
-Seção: 14
+Seção: 18
 (0 / 31)
 Bonus: Projeto #06 - Base de Conhecimento • Frontend
 
-Seção: 15
+Seção: 19
 (0 / 8)
 Bonus: CSS Grid & Flexbox
+
+Seção: 20
+(0 / 28)
+Bonus: Javascript Essencial
