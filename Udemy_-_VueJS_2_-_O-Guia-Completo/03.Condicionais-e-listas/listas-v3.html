@@ -1,0 +1,37 @@
+<meta charset="UTF-8">
+
+<script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.js"></script>
+
+<div id="app">
+    <ul>
+        <li v-for='(cor, indice) in cores'  > {{ indice }} - {{ cor }} </li>
+    </ul>
+    <hr>
+    <template v-for='(cor, indice) in cores' >
+        <h1>{{ cor }}</h1>
+        <p> {{ indice }} </p>
+    </template>
+</div>
+
+<script>
+    new Vue({
+        el: "#app",
+        data: {
+            cores: ['vermelho', 'azul', 'verde', 'amarelo'],
+            pessoas: [
+                { nome: 'Ana', idade: 23 , peso: 62},
+                { nome: 'Higor', idade: 25 , peso: 85},
+                { nome: 'Hugo', idade: 27 , peso: 75}
+            ]
+        }
+    })
+</script>
+
+<style>
+    ul {
+        list-style: none;
+    }
+    h1, p {
+        display: inline;
+    }
+</style>
