@@ -1,4 +1,4 @@
-## Udemy: [Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex)](https://www.udemy.com/vue-js-completo)  ![progress](http://progressed.io/bar/18?title=completed "progress")
+## Udemy: [Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex)](https://www.udemy.com/vue-js-completo)  ![progress](http://progressed.io/bar/23?title=completed "progress")
 
 Seção: 1
 (**9 / 9**)
@@ -13,7 +13,7 @@ Seção: 3
 Usando Condicionais & Renderização de Listas
 
 Seção: 4
-(0 / 12)
+(**12 / 12**)
 Projeto #01 - O Matador de Monstros
 
 Seção: 5
